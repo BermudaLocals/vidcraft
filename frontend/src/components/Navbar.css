@@ -1,0 +1,5 @@
+﻿.navbar { display: flex; align-items: center; justify-content: space-between; padding: .8rem 2rem; background: #111; border-bottom: 1px solid #222; position: sticky; top: 0; z-index: 100; }
+.navbar-brand { font-size: 1.3rem; font-weight: 800; color: #6c63ff; }
+.navbar-links { display: flex; align-items: center; gap: 1.2rem; }
+.navbar-links a { color: #ccc; transition: color .2s; }
+.navbar-links a:hover { color: #fff; }
